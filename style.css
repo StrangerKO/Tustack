@@ -1,0 +1,10 @@
+.line{
+  height: 6px;
+  background-color: black;
+  width: 1499px;
+  margin: 8px auto;
+}
+body{
+  text-align: center;
+  background: linear-gradient(#c18928, #5121c5);
+}
